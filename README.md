@@ -1,2 +1,2 @@
 # ActiveIsola
-A project collecting practical info about physical activities in Isola Rossa, SArdinia. Eventually, a book
+A project collecting practical info about physical activities in the resort town of Isola Rossa, Sardinia. Eventually, a book
